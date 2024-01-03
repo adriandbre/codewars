@@ -10,19 +10,19 @@ Hashtag generator <br>
 Valid Parentheses <br>
 
 ## 6 Kyu problems:
-Are they the same <be>
-Array diff <be>
-Bit counting <be>
-Break camelCase <be>
-Convert string to camel case <be>
-Counting duplicates <be>
-Detect pangram <be>
-Multiple of 3 and 5 <be>
-Replace with alphabet position <be>
-Roman numerals decoder <be>
-Split strings <be>
-Take a ten minutes walk <be>
-Word reverse <be>
+Are they the same <br>
+Array diff <br>
+Bit counting <br>
+Break camelCase <br>
+Convert string to camel case <br>
+Counting duplicates <br>
+Detect pangram <br>
+Multiple of 3 and 5 <br>
+Replace with alphabet position <br>
+Roman numerals decoder <br>
+Split strings <br>
+Take a ten minutes walk <br>
+Word reverse <br>
 
 ## 7 Kyu problems:
 Descending order <br>
